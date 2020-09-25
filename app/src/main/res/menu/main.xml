@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/refresh"
+		android:showAsAction="always"
+        android:title="刷新"/>
+	<item
+        android:id="@+id/convert_all"
+		android:showAsAction="always"
+        android:title="全部转换"/>
+	<item
+        android:id="@+id/file"
+		android:showAsAction="always"
+        android:title="文件"/>
+	<item
+        android:id="@+id/storage"
+        android:title="存储位置"/>
+	<item
+        android:id="@+id/clear"
+        android:title="清理输出目录"/>
+	<item
+        android:id="@+id/threads"
+        android:title="同时转换视频数"/>
+    <item
+        android:id="@+id/about"
+        android:title="关于"/>
+    <item
+        android:id="@+id/exit"
+        android:title="退出"/>
+	
+</menu>

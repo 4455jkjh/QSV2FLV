@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">QSV Converter</string>
+	<string-array name="unconverted">
+		<item>Show Details</item>
+		<item>Start Convert</item>
+	</string-array>
+	<string-array name="converted">
+    <item>Show Details</item>
+		<item>Start Convert</item>
+		<item>Open</item>
+	</string-array>
+	<color name="hj">#FFEA3838</color>
+	<string name="threads">注：同时执行的任务数越多并不代表速度越快，影响本软件的主要是ROM的存取速度。 </string>
+  <string name="show_hidden_files">Show Hidden Files</string>
+</resources>

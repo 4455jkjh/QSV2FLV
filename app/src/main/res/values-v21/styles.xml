@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">@color/primary_material_light</item>
+        <item name="android:colorPrimaryDark">@color/primary_dark_material_light</item>
+        <item name="android:colorAccent">@color/accent_material_light</item>
+		<item name="android:dialogTheme">?android:attr/alertDialogTheme</item>
+	</style>
+    <color name="primary_dark_material_light">#FF29B6F6</color>
+    <color name="primary_material_light">#FFFFFFFF</color>
+    <color name="accent_material_light">#FF29B6F6</color>
+</resources>
